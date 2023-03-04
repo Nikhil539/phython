@@ -1,0 +1,5 @@
+n=float(input("Enter a number"))
+square_of_a_number=n*n
+Cube_of_a_number=n*n*n
+print(square_of_a_number)
+print(Cube_of_a_number)
